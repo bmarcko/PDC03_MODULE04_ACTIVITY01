@@ -15,3 +15,8 @@ C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debu
 C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\ref\PDC03_MODULE04.dll
 C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\Activity01.xaml.g.cs
 C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\Activity02.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\Activity03.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\Activity03Page2.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\Activity04.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\Activity05.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE04\PDC03_MODULE04\PDC03_MODULE04\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
